@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.2)  3 APR 2013 23:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.4.2)  4 APR 2013 23:47
 entering extended mode
  %&-line parsing enabled.
 **cv_7.tex
@@ -492,13 +492,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./cv_7.aux) ) 
 Here is how much of TeX's memory you used:
- 8935 strings out of 495061
- 128535 string characters out of 1182622
- 336926 words of memory out of 3000000
- 11906 multiletter control sequences out of 15000+50000
- 64358 words of font info for 72 fonts, out of 3000000 for 9000
+ 8936 strings out of 495061
+ 128533 string characters out of 1182622
+ 337926 words of memory out of 3000000
+ 11905 multiletter control sequences out of 15000+50000
+ 64459 words of font info for 73 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 42i,12n,67p,766b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,11n,67p,766b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/sh
 are/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm
 /lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf
@@ -508,7 +508,7 @@ s/type1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmsso17.pfb></usr/share/texmf-texlive/fonts/type1/public/marvosy
 m/marvosym.pfb>
-Output written on cv_7.pdf (2 pages, 161624 bytes).
+Output written on cv_7.pdf (2 pages, 161219 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
